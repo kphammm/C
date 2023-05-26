@@ -1,8 +1,20 @@
 /*
-*Kenneth Pham
-*ID: 015145546
-*CS2600, Fall 2022
-*Programming Assignment #5
+*This program mimics the Tee command
+*This is tee program 
+*user@user-VirtualBox:~$ gcc file2.c
+*user@user-VirtualBox:~$ ./a.out
+*
+*afterwards enter
+*
+*tee -a fileName
+*
+*or
+*
+*tee fileName
+*
+*afterwards to exit enter
+*
+*"quit"
 */
 
 #include <stdio.h>
