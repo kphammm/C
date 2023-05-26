@@ -1,8 +1,16 @@
 /*
-*Kenneth Pham
-*ID: 015145546
-*CS2600, Fall 2022
-*Programming Assignment #5
+*This is timeout program 
+*user@user-VirtualBox:~$ gcc file2.c
+*user@user-VirtualBox:~$ ./a.out
+*
+*Once you run the program, it will scan for the input, which must be given in this format
+*
+*filename -t #
+*
+*# is the seconds the program will sleep for
+*
+*the program will print out the time the terminal has been idle and the last modification time
+*
 */
 
 #include <stdio.h>
