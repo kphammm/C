@@ -1,11 +1,4 @@
 /*
-*Kenneth Pham
-*ID: 015145546
-*CS2600, Fall 2022
-*Programming Assignment #2
-*/
-
-/*
 This is Menu Driven program that can be run using
 user@user-VirtualBox:~$ gcc file2.c
 user@user-VirtualBox:~$ ./a.out
